@@ -10,9 +10,12 @@ function App() {
   <li>About</li>
   <li>contact</li>
 </nav>
+<navbar/>
+<img src="" alt="" />
 <div className="container">
   <h1>Hello {name}</h1>
-  Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam quae dignissimos repudiandae cum esse quisquam, nostrum consectetur quia libero, sapiente debitis assumenda in temporibus? Esse quae nulla debitis soluta dolorem!
+  <h1> my name is khan</h1>
+  Lorem ipsum dolor sit all the things consectetur adipisicing elit. Aperiam quae dignissimos repudiandae cum esse quisquam, nostrum consectetur quia libero, sapiente debitis assumenda in temporibus? Esse quae nulla debitis soluta dolorem!
 </div>
 </>
   );
